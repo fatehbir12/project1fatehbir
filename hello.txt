@@ -1,1 +1,2 @@
 hi my name is fateh
+hello, i am new to git hub
